@@ -37,6 +37,7 @@ Außerdem verwende ich Python, Java.<br>
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white">
 <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?style=flat-square&logo=Eclipse%20IDE&logoColor=white">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white">
 
 ## ✨Studying✨
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
@@ -44,6 +45,7 @@ Außerdem verwende ich Python, Java.<br>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=D3.js&logoColor=white"/>
   
 ## 📧 How to reach Me
 <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kinnatzzang@gmail.com"/>
