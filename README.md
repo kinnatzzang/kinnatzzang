@@ -38,6 +38,7 @@ Außerdem verwende ich Python, Java.<br>
 <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?style=flat-square&logo=Eclipse%20IDE&logoColor=white">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
 <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white">
+<img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white">  
 
 ## ✨Studying✨
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
